@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsir-jagoan.github.io/jago-1/sitemap.xml
